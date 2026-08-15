@@ -2,26 +2,23 @@ Customer Churn Analysis & Prediction is a mini machine learning project that ana
 
 Technologies & Libraries:
 
-Python
-Jupyter Notebook
-Pandas
-NumPy
-Matplotlib
-Seaborn
-Scikit-learn
+Python,
+Jupyter Notebook,
+Pandas,
+NumPy,
+Matplotlib,
+Seaborn,
+Scikit-learn,
 
-Key Features:
-
-Data collection and cleaning
-Exploratory Data Analysis (EDA)
-Customer churn visualization
-Analysis of tenure, monthly charges, contract type, and support calls
-Data preprocessing and label encoding
-Logistic Regression for churn prediction
-Accuracy evaluation
-Confusion Matrix
-Classification Report
-
-Dataset: 200 customer records
-Algorithm: Logistic Regression
-Output: Predicts whether a customer is likely to Churn or Stay.
+🔑 Key Features
+🧹 Data Cleaning – Handle missing values and duplicate records.
+🔍 EDA – Analyze customer churn patterns and behavior.
+📊 Data Visualization – Visualize churn, contract type, charges, and tenure.
+🏷️ Label Encoding – Convert categorical data into numerical values.
+🤖 Machine Learning – Use Logistic Regression for churn prediction.
+🎯 Prediction – Predict whether a customer will Churn or Stay.
+📈 Accuracy Score – Measure model performance.
+🔲 Confusion Matrix – Analyze prediction results.
+📋 Classification Report – Evaluate precision, recall, and F1-score.
+📁 Dataset – Analyze 200 customer records.
+ to Churn or Stay.
